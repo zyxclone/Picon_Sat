@@ -3,7 +3,7 @@
 import Image
 import os, sys
 
-def resizeImage(infile, dir, output_dir="", size=(220,132)):
+def resizeImage(infile, dir, output_dir="", size=(440,264)):
      outfile = os.path.splitext(infile)[0]
      extension = os.path.splitext(infile)[1]
 
