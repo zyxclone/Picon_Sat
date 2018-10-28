@@ -32,3 +32,13 @@ Sientese libre de compartir si lo desea los picones que creamos, los mismos se r
 - [foro OpenSpa](https://openspa.info/) y en imagen Openspa a traves de panel Extra
 
 
+---
+
+## Tabla de Contenidos
+
+1. **[Descarga Manual](#1-Descarga-Manual)**
+
+
+---
+
+## 1. Descarga Manual
