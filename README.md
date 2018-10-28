@@ -36,11 +36,14 @@ Sientese libre de compartir si lo desea los picones que creamos, los mismos se r
 
 ## Tabla de Contenidos
 
-1. **[Descarga Manual](#1-Descarga-Manual)**
+1. **[Descarga picon Manual](#1-Descarga-picon-Manual)**
+2. **[Descarga picon Redimensionado](#1-Descarga-picon-Redimensionado)**
 
 ---
 
-## 1. Descarga Manual
+## 1. Descarga picon Manual
+
+En este metodo podemos descargar en nuestro PC todo el github completo, donde los picones seran al tamaño original que los subimos, es decir a tamaño 440x264, donde tendremos todos los picones separados por las carpetas segun el tipo de picon, y podemos copiar los que deseemos e introducirlos manualmente en nuestro receptor.
 
 a) Pulsamos sobre el [siguiente enlace](https://github.com/spainE2/Picon_Enigma2_Sat/archive/master.zip) para descargar los picon
 
@@ -53,5 +56,21 @@ d) Introducimos los .png que deseemos en el interior de la carpeta picon de nues
 * /usr/share/enigma
 * /media/hdd
 * /media/usb
+
+---
+
+## 1. Descarga picon Redimensionado
+
+En este metodo podemos usar un script que ejecutaremos en nuestro receptor (este script lo podemos modificar), para que de esta manera automaticamente:
+
+* Se descarguen los picones correspondientes solo a uno de los modelos que estan subidos (es decir no todo el git si no solo una carpeta)
+* Estos picones una vez descargados se redimensionen en nuestro receptor
+* Una vez redimensionados se muevan al directorio que deseemos del receptor
+
+Para la realizacion de este metodo es necesario que nuestro receptor tenga instalado previamente unos requisitos, para ello por telnet es necesario instalarlos, de esta manera:
+
+$ opkg install curl
+
+$ opkg install python-imaging
 
 
