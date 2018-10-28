@@ -29,7 +29,7 @@ if __name__=="__main__":
             if args[1]!="./":
                 dir = args[1]
 
-    output_dir = dir+os.sep+"resized"
+    output_dir = dir+os.sep+"picon"
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
 
