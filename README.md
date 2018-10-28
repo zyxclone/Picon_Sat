@@ -44,7 +44,7 @@ Sientese libre de compartir si lo desea los picones que creamos, los mismos se r
 
 a) Pulsamos sobre el [siguiente enlace](https://github.com/spainE2/Picon_Enigma2_Sat/archive/master.zip) para descargar los picon
 
-b) Tendremos una archivo # Picon_Enigma2_Sat-master.zip en nuestro pc
+b) Tendremos una archivo **Picon_Enigma2_Sat-master.zip** en nuestro pc
 
 c) Descomprimimos el archivo y tendremos varias carpetas, en cada carpeta estaran los picones en formato .png
 
