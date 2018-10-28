@@ -82,10 +82,12 @@ a) Pulsamos sobre boton derecho y guardar como sobre el archivo [picon.sh](https
 
 b) Lo abrimos con un editor de texto recomendable notepad++, y vamos a tener en cuenta los parametros de edicion del mismo que seran los siguientes:
 
-``carpetapicon='picon.movistar.transparent.19.2'
+```
+carpetapicon='picon.movistar.transparent.19.2'
 ubicacionpicon='/media/hdd/'
-sizepicon='220,132'``
+sizepicon='220,132'
 
+```
 1. En opcion **carpetapicon** introducimos la carpeta picon de los disponibles en el github que deseamos descargar, las opciones actuales son:
 
 * picon.fta.black.19.2
