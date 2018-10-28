@@ -69,8 +69,8 @@ En este metodo podemos usar un script que ejecutaremos en nuestro receptor (este
 
 Para la realizacion de este metodo es necesario que nuestro receptor tenga instalado previamente unos requisitos, para ello por telnet es necesario instalarlos, de esta manera:
 
-$ opkg install curl
+`opkg install curl`
 
-$ opkg install python-imaging
+`opkg install python-imaging`
 
 
