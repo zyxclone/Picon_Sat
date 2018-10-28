@@ -38,50 +38,6 @@ Sientese libre de compartir si lo desea los picones que creamos, los mismos se r
 
 1. **[Descarga Manual](#1-Descarga-Manual)**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 1. Descarga Manual
