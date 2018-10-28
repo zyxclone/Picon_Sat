@@ -41,3 +41,17 @@ Sientese libre de compartir si lo desea los picones que creamos, los mismos se r
 ---
 
 ## 1. Descarga Manual
+
+a) Pulsamos sobre el [siguiente enlace](https://github.com/spainE2/Picon_Enigma2_Sat/archive/master.zip) para descargar los picon
+
+b) Tendremos una archivo #Picon_Enigma2_Sat-master.zip en nuestro pc
+
+c) Descomprimimos el archivo y tendremos varias carpetas, en cada carpeta estaran los picones en formato .png
+
+d) Introducimos los .png que deseemos en el interior de la carpeta picon de nuestro receptor, en caso de que nuestro receptor no tenga la carpeta picon la creamos, los directorios mas comunes donde la podemos crear son:
+
+* /usr/share/enigma
+* /media/hdd
+* /media/usb
+
+
