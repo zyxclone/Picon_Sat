@@ -37,7 +37,7 @@ Sientese libre de compartir si lo desea los picones que creamos, los mismos se r
 ## Tabla de Contenidos
 
 1. **[Descarga picon Manual](#1-Descarga-picon-Manual)**
-2. **[Descarga picon Redimensionado](#1-Descarga-picon-Redimensionado)**
+2. **[Descarga picon Redimensionado](#2-Descarga-picon-Redimensionado)**
 
 ---
 
@@ -59,7 +59,7 @@ d) Introducimos los .png que deseemos en el interior de la carpeta picon de nues
 
 ---
 
-## 1. Descarga picon Redimensionado
+## 2. Descarga picon Redimensionado
 
 En este metodo podemos usar un script que ejecutaremos en nuestro receptor (este script lo podemos modificar), para que de esta manera automaticamente:
 
