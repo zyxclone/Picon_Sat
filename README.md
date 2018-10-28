@@ -11,8 +11,8 @@
   <a href="https://openspa.info/">
     <img src="https://raw.githubusercontent.com/spainE2/Picon_Enigma2_Sat/master/lo1.png" alt="Soporte Openspa">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
+  <a href="https://openspa.info/conversations/add?to=pelajustrana">
+    <img src="https://raw.githubusercontent.com/spainE2/Picon_Enigma2_Sat/master/user1.png" alt="Contacto pelajustrana">
   </a>
   <a href="https://travis-ci.com/leonardomso/33-js-concepts">
     <img src="https://img.shields.io/travis/leonardomso/33-js-concepts/master.svg?style=flat-square&label=build&logo=travis" alt="Build Status">
