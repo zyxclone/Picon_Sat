@@ -72,4 +72,48 @@ Para la realizacion de este metodo es necesario que nuestro receptor tenga insta
 
 `opkg install python-imaging`
 
+Una vez nuestro receptor tiene los requisitos instalados, se realizan los siguientes pasos:
+
+a) Pulsamos sobre boton derecho y guardar como sobre el archivo [picon.sh](https://github.com/spainE2/Picon_Enigma2_Sat/blob/master/picon.sh)
+
+b) Lo abrimos con un editor de texto recomendable notepad++, y vamos a tener en cuenta los parametros de edicion del mismo que seran los siguientes:
+
+`carpetapicon='picon.movistar.transparent.19.2'
+ubicacionpicon='/media/hdd/'
+sizepicon='220,132'`
+
+1. En opcion **carpetapicon** introducimos la carpeta picon de los disponibles en el github que deseamos descargar, las opciones actuales son:
+
+* picon.fta.black.19.2
+* picon.fta.transparent.19.2
+* picon.movistar.black.19.2
+* picon.movistar.transparent.19.2
+* picon.sky.black.19.2
+* picon.sky.transparent.19.2
+
+2. En opcion **ubicacionpicon** introducimos el directorio de nuestro receptor donde se ubicaran los picones ya redimensionados, lo mas normal sera usar uno de los siguientes directorios:
+
+* /media/hdd/
+* /media/usb/
+* /usr/share/enigma2/
+
+3. En opcion **sizepicon** introducimos el tamaño al que deseamos redimensionar los picones (el primer parametro es el ancho el segundo el alto), los tamaños de los picones mas tipicos podrian ser:
+
+* 440,264
+* 220,132
+* 100,60
+
+Una vez terminado la edicion del script guardamos cambios en el mismo.
+
+c) A continuacion introducimos el archivo picon.sh editado en el directorio /usr/bin de nuestro receptor y le damos permiso de ejecucion, para ello desde telnet ejecutamos:
+
+`chmod 755 /usr/bin/picon.sh`
+
+d) Para finalizar desde telnet ejecutamos el siguiente comando a traves de telnet(estar situado en la raiz de archivos root del receptor)
+
+`sh /usr/bin/picon.sh`
+
+Y de este modo tendremos los picones redimensionados al tamaño elejido de la carpeta de picones que hemos querido descargar.
+
+
 
