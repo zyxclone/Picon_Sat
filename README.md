@@ -8,8 +8,8 @@
 </h1>
 
 <p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  <a href="https://openspa.info/">
+    <img src="https://raw.githubusercontent.com/spainE2/Picon_Enigma2_Sat/master/lo1.png" alt="Soporte Openspa">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
