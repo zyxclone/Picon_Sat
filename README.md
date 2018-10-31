@@ -96,6 +96,12 @@ sizepicon='220,132'
 * picon.movistar.transparent.19.2
 * picon.sky.black.19.2
 * picon.sky.transparent.19.2
+* picon.elevensport.black.13
+* picon.elevensport.transparent.13
+* picon.elite.black.19.2
+* picon.elite.transparent.19.2
+* picon.orf.black.19.2
+* picon.orf.transparent.19.2
 
 2. En opcion **ubicacionpicon** introducimos el directorio de nuestro receptor donde se ubicaran los picones ya redimensionados, lo mas normal sera usar uno de los siguientes directorios:
 
