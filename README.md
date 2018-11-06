@@ -20,6 +20,8 @@
 
 ## Introduccion
 
+Oficial soporte de los creadores http://spaine2.es/
+
 Este repositorio ha sido creado con la intencion de crear picones para receptores enigma2 basados en la mosca original que usan los canales tv a traves del satelite en su retrasmision. La mayoria son creados a partir del diseño original, es decir emulando el diseño primario y usando las mismas font de texto de estos diseños, lo que permite el control del tamaño y calidad, que hace que se intente que el tamaño final sea de alta calidad. Los picones son subidos a tamaño 440x264 en formato .png que permite que no se pierda calidad en el redimensionado de los mismos en los diferentes skin que los usuarios usen en sus receptores.
 
 <a href="https://ibb.co/e8cEFq"><img src="https://preview.ibb.co/hhwVoA/mosaico-800.png" alt="mosaico-800" border="0"></a>
