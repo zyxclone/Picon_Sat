@@ -5,7 +5,7 @@ ubicacionpicon='/media/hdd/'
 sizepicon='220,132'
 
 echo 'Creamos el enterno descarga'
-mkdir entornopicon 
+mkdir entornopicon
 cd /entornopicon/
 echo 'Empezamos la descarga de los picones deseados'
 curl https://codeload.github.com/spainE2/Picon_Enigma2_Sat/tar.gz/master | \
@@ -22,5 +22,3 @@ cp -r /entornopicon/picon/ $ubicacionpicon
 echo 'Borramos el entorno'
 rm -r /entornopicon/
 echo 'Finalizado'
-
-
